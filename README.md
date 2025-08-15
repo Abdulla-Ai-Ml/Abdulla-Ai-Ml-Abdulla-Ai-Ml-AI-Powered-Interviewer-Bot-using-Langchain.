@@ -18,6 +18,7 @@ This project uses:
 - 💾 **CSV Data Logging:** Stores candidate info, questions, audio paths, transcriptions, and evaluation results.
 - 🧪 **Mock Mode:** Test without API calls.
 - 🎈 **Interactive UI:** Built in Streamlit with easy navigation between questions.
+- 
 
 ---
 
@@ -43,21 +44,18 @@ This project uses:
 - **Python 3.9+** is recommended.
 
 ### Install Dependencies
-```bash
+
 pip install streamlit langchain langchain-groq groq python-dotenv audio-recorder-streamlit
 
 
 
 
 
-
-<img width="1361" height="685" alt="Untitled1" src="https://github.com/user-attachments/assets/17115b08-6208-4d5e-a579-da54b6ab4a7c" />
-<img width="1371" height="695" alt="Untitled2" src="https://github.com/user-attachments/assets/099028cc-2790-4b78-9654-752b752c7197" />
-<img width="1361" height="691" alt="Untitled4" src="https://github.com/user-attachments/assets/c78331a3-f5bc-47c8-abc1-962abc46690c" />
-<img width="1377" height="691" alt="Untitled5" src="https://github.com/user-attachments/assets/f0c83f5b-5b01-404a-9ad2-53a0121fd0df" />
-<img width="1375" height="681" alt="Untitled6" src="https://github.com/user-attachments/assets/d066ae80-5f07-444e-815a-4db6306fec14" />
-
-
+<img src="https://github.com/user-attachments/assets/17115b08-6208-4d5e-a579-da54b6ab4a7c" alt="Untitled1">
+<img src="https://github.com/user-attachments/assets/099028cc-2790-4b78-9654-752b752c7197" alt="Untitled2">
+<img src="https://github.com/user-attachments/assets/c78331a3-f5bc-47c8-abc1-962abc46690c" alt="Untitled4">
+<img src="https://github.com/user-attachments/assets/f0c83f5b-5b01-404a-9ad2-53a0121fd0df" alt="Untitled5">
+<img src="https://github.com/user-attachments/assets/d066ae80-5f07-444e-815a-4db6306fec14" alt="Untitled6">
 
 
 
