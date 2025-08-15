@@ -47,11 +47,16 @@ This project uses:
 pip install streamlit langchain langchain-groq groq python-dotenv audio-recorder-streamlit
 
 
-<img width="1361" height="685" alt="Untitled1" src="https://github.com/user-attachments/assets/7cc580e9-5fd3-4406-a608-fc9e39c2614c" />
-<img width="1371" height="695" alt="Untitled2" src="https://github.com/user-attachments/assets/f5d0c495-17c9-4236-86a8-6b999aa9fb99" />
-<img width="1361" height="691" alt="Untitled4" src="https://github.com/user-attachments/assets/c71d1a27-2364-4db2-b3d3-9dc898a6c197" />
-<img width="1377" height="691" alt="Untitled5" src="https://github.com/user-attachments/assets/9366617a-42e4-4ba6-8329-336fa663c173" />
-<img width="1375" height="681" alt="Untitled6" src="https://github.com/user-attachments/assets/970e81ea-f8b9-4de2-b369-eaa7f33c4499" />
+
+
+
+
+<img width="1361" height="685" alt="Untitled1" src="https://github.com/user-attachments/assets/17115b08-6208-4d5e-a579-da54b6ab4a7c" />
+<img width="1371" height="695" alt="Untitled2" src="https://github.com/user-attachments/assets/099028cc-2790-4b78-9654-752b752c7197" />
+<img width="1361" height="691" alt="Untitled4" src="https://github.com/user-attachments/assets/c78331a3-f5bc-47c8-abc1-962abc46690c" />
+<img width="1377" height="691" alt="Untitled5" src="https://github.com/user-attachments/assets/f0c83f5b-5b01-404a-9ad2-53a0121fd0df" />
+<img width="1375" height="681" alt="Untitled6" src="https://github.com/user-attachments/assets/d066ae80-5f07-444e-815a-4db6306fec14" />
+
 
 
 
